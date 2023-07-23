@@ -2,7 +2,7 @@
 
 This repository contains two Java projects: "Bank Account" and "Number Guessing Game."
 
-![linke3 mackph]("https://copyassignment.com/wp-content/uploads/2022/12/ATM-Management-System-Project-in-Java.jpg")
+![linke3 mackph](https://copyassignment.com/wp-content/uploads/2022/12/ATM-Management-System-Project-in-Java-675x443.jpg)
 ## ATM Interface
 
 ### Description
