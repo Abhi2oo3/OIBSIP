@@ -26,6 +26,8 @@ The "ATM Interface" project is a simple Java program that simulates a basic bank
 
 ## Number Guessing Game
 
+![linke3 mackph](https://d2vlcm61l7u1fs.cloudfront.net/media%2F453%2F453c6e40-b20d-4e0d-bd6d-593161a4a752%2FphpLJ49Fg.png)
+
 ### Description
 
 The "Number Guessing Game" project is a Java program that allows users to play a simple number guessing game. The program generates a random number between 1 and 100, and the user has to guess the correct number. The program provides feedback on each guess, indicating whether the guess is too high, too low, or correct.
